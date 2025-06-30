@@ -129,5 +129,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## License
 
-Specify your license here (e.g., MIT, Apache 2.0).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
