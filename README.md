@@ -1,8 +1,8 @@
-# cloral HR Management System Android Application
+# HR Management System Android Application
 
 ## Overview
 
-cloral HR Management System is a comprehensive Android application designed to streamline and manage the recruitment process for companies. Built in Java, it leverages Firebase for cloud data management and local SQLite for offline support. The app enables HR teams to efficiently handle candidate information, track application statuses, and synchronize data securely between devices and the cloud.
+HR Management System is a comprehensive Android application designed to streamline and manage the recruitment process for companies. Built in Java, it leverages Firebase for cloud data management and local SQLite for offline support. The app enables HR teams to efficiently handle candidate information, track application statuses, and synchronize data securely between devices and the cloud.
 
 ## Features
 
